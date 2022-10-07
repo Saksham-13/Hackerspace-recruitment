@@ -1,7 +1,7 @@
 ---
 name:  Suraj Kadapa
 github: https://github.com/surajkadapa
-email: surajakdapa103@gmail.com
+email: surajkadapa103@gmail.com
 contact no : 8867886806
 SRN/PRN : <PES2202200348>
 Domain Interest : Low level software, Hardware, Cybersecurity, IoT
