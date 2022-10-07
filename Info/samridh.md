@@ -8,5 +8,5 @@ Domain Interest : Web development, App development (Kotlin), Python
 semester : 3
 ---
 
-# Hi, I'm Saksham
+# Hi, I'm Samridh
     Best of luck !!
