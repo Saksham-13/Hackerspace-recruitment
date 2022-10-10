@@ -10,5 +10,5 @@
     ---
 
     # Hi, I'm SAI YASHWANTH
-    I am addicted to learning and trying to create a balance in my life.
+    I am addicted to learning
    ```
