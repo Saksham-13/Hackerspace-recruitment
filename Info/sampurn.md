@@ -4,7 +4,7 @@ github: ttps://github.com/KumarSampurn
 email: kumarsampurn@outlook.com
 contact no : 9608608150/ 8961429971
 SRN/PRN : <PES2UG21CS245>
-Domain Interest : AI/ ML , Python , XR devlopment , App development
+Domain Interest : AI/ ML, Computer Vision (Open CV) , Python , XR devlopment , App development
 semester : 3
 ---
 
