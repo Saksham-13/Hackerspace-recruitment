@@ -2,7 +2,7 @@
 
 Name:   Jason Dsouza
 
-GitHb: https://github.com/jasmcaus
+GitHub: https://github.com/jasmcaus
 
 Email: jaamcaus@mail.com
 
